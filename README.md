@@ -3,4 +3,4 @@ This program, using the ImageAi library, analyzes the image in search of matches
 The search results are recorded in a new image, which displays the percentage of matches with the desired object (more than 20% similarity). 
 The user is provided with a simple interface with the ability to download the file. The interface is implemented using the TKinter library.
 
-Note: the repository contains only the main project files without accompanying libraries and other things, as well as a test image.
+Note: the repository contains only The test image and the main project files without accompanying libraries and other things.
