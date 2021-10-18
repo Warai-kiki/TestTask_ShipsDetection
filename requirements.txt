@@ -1,9 +1,17 @@
 Required Python modules:
 	standart modules:
-		os
-		tkinter
+		- os
+		- tkinter
+		- numpy
 	extra modules:
-		tensorflow
-		keras
-		imageai
+		- tensorflow
+		- keras
+		- imageai
+		- scipy
+		- pillow
+		- h5py
+		- matplotlib
+		- opencv-python
+Object detection model:
+	- YOLOv3: https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection
 		
