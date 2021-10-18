@@ -1,0 +1,9 @@
+Required Python modules:
+	standart modules:
+		os
+		tkinter
+	extra modules:
+		tensorflow
+		keras
+		imageai
+		
