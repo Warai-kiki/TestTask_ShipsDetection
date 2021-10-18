@@ -1,4 +1,6 @@
 # TestTask_ShipsDetection
-Эта программа с помощью библиотеки ImageAi анализирует изображение в поисках совпадений с искомыми объектами.
-Результаты поисков фиксируются в новом изображении, где отображается процент совпадения с искомым объектом (больше 20% сходства).
-Пользователю предоставлен простой интерфейс с возможностью загругки файла. Интерфейс реализован с помощью библиотеки TKinter.
+This program, using the ImageAi library, analyzes the image in search of matches with the searched objects. 
+The search results are recorded in a new image, which displays the percentage of matches with the desired object (more than 20% similarity). 
+The user is provided with a simple interface with the ability to download the file. The interface is implemented using the TKinter library.
+
+Note: the repository contains only the main project files without accompanying libraries and other things, as well as a test image.
