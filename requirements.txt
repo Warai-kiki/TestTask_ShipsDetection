@@ -13,5 +13,5 @@ Required Python modules:
 		- pip matplotlib
 		- pip opencv-python
 Object detection model:
-	- YOLOv3: https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection
+	- YOLOv3: https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
 		
