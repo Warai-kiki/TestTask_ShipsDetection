@@ -1,0 +1,5 @@
+The test program obtained in the course of execution fulfills the specified conditions. It allows you to define the necessary objects, 
+namely ships, in the image with an accuracy of more than 20%. 
+The program is implemented in the form of two files, one of which is responsible for providing a clear interface to the user and downloading the necessary {{1 }} for working with images, and the second - for direct work with the image and displaying the result of processing to the user. The result of 
+processing is an image in .jpg format, on which all detected objects matching the description of the ship are highlighted in blue frames, 
+and the percentage of similarity with the desired object is indicated.

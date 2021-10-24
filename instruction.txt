@@ -1,0 +1,7 @@
+Before starting the program, make sure that Python3 and the appropriate development environment are installed on your computer. 
+To run the program, follow these steps: 
+1. Open your pre-installed development environment and create a new project. 
+2. Load the modules specified in the requirements.txt document through the terminal. 
+3. Copy the files main.py and interface.py to the folder of the created project. 
+4. Download the yolo.h5 file to the folder of the created project. The link is in the requirements.txt file. 
+5. Open interface.py in your development environment and run it.
